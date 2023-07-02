@@ -1,0 +1,15 @@
+D:\C#\coloradoc#course\course3\2-Windows-Programming-Assignment-2-Materials\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\net6.0\ProgrammingAssignment2.exe
+D:\C#\coloradoc#course\course3\2-Windows-Programming-Assignment-2-Materials\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\net6.0\ProgrammingAssignment2.deps.json
+D:\C#\coloradoc#course\course3\2-Windows-Programming-Assignment-2-Materials\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\net6.0\ProgrammingAssignment2.runtimeconfig.json
+D:\C#\coloradoc#course\course3\2-Windows-Programming-Assignment-2-Materials\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\net6.0\ProgrammingAssignment2.dll
+D:\C#\coloradoc#course\course3\2-Windows-Programming-Assignment-2-Materials\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\net6.0\ProgrammingAssignment2.pdb
+D:\C#\coloradoc#course\course3\2-Windows-Programming-Assignment-2-Materials\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.csproj.AssemblyReference.cache
+D:\C#\coloradoc#course\course3\2-Windows-Programming-Assignment-2-Materials\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\coloradoc#course\course3\2-Windows-Programming-Assignment-2-Materials\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.AssemblyInfoInputs.cache
+D:\C#\coloradoc#course\course3\2-Windows-Programming-Assignment-2-Materials\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.AssemblyInfo.cs
+D:\C#\coloradoc#course\course3\2-Windows-Programming-Assignment-2-Materials\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.csproj.CoreCompileInputs.cache
+D:\C#\coloradoc#course\course3\2-Windows-Programming-Assignment-2-Materials\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.dll
+D:\C#\coloradoc#course\course3\2-Windows-Programming-Assignment-2-Materials\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\refint\ProgrammingAssignment2.dll
+D:\C#\coloradoc#course\course3\2-Windows-Programming-Assignment-2-Materials\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.pdb
+D:\C#\coloradoc#course\course3\2-Windows-Programming-Assignment-2-Materials\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.genruntimeconfig.cache
+D:\C#\coloradoc#course\course3\2-Windows-Programming-Assignment-2-Materials\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ref\ProgrammingAssignment2.dll
