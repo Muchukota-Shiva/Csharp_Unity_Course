@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Exercise3
+build_property.ProjectDir = D:\C#\n0wG0b8hSBiLl0g5FTyz_Q_6002d73e0992449c80b65acc361fb1f1_2-1-Exercise-3-Solution\Exercise3\Exercise3\

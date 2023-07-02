@@ -1,0 +1,17 @@
+D:\C#\4-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\net6.0\ProgrammingAssignment3.exe
+D:\C#\4-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\net6.0\ProgrammingAssignment3.deps.json
+D:\C#\4-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\net6.0\ProgrammingAssignment3.runtimeconfig.json
+D:\C#\4-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\net6.0\ProgrammingAssignment3.dll
+D:\C#\4-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\net6.0\ProgrammingAssignment3.pdb
+D:\C#\4-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\net6.0\ConsoleCards.dll
+D:\C#\4-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.csproj.AssemblyReference.cache
+D:\C#\4-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\4-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.AssemblyInfoInputs.cache
+D:\C#\4-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.AssemblyInfo.cs
+D:\C#\4-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.csproj.CoreCompileInputs.cache
+D:\C#\4-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.csproj.CopyComplete
+D:\C#\4-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.dll
+D:\C#\4-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\refint\ProgrammingAssignment3.dll
+D:\C#\4-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.pdb
+D:\C#\4-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.genruntimeconfig.cache
+D:\C#\4-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ref\ProgrammingAssignment3.dll

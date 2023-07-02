@@ -1,0 +1,15 @@
+D:\C#\n0wG0b8hSBiLl0g5FTyz_Q_6002d73e0992449c80b65acc361fb1f1_2-1-Exercise-3-Solution\Exercise3\Exercise3\bin\Debug\net6.0\Exercise3.exe
+D:\C#\n0wG0b8hSBiLl0g5FTyz_Q_6002d73e0992449c80b65acc361fb1f1_2-1-Exercise-3-Solution\Exercise3\Exercise3\bin\Debug\net6.0\Exercise3.deps.json
+D:\C#\n0wG0b8hSBiLl0g5FTyz_Q_6002d73e0992449c80b65acc361fb1f1_2-1-Exercise-3-Solution\Exercise3\Exercise3\bin\Debug\net6.0\Exercise3.runtimeconfig.json
+D:\C#\n0wG0b8hSBiLl0g5FTyz_Q_6002d73e0992449c80b65acc361fb1f1_2-1-Exercise-3-Solution\Exercise3\Exercise3\bin\Debug\net6.0\Exercise3.dll
+D:\C#\n0wG0b8hSBiLl0g5FTyz_Q_6002d73e0992449c80b65acc361fb1f1_2-1-Exercise-3-Solution\Exercise3\Exercise3\bin\Debug\net6.0\Exercise3.pdb
+D:\C#\n0wG0b8hSBiLl0g5FTyz_Q_6002d73e0992449c80b65acc361fb1f1_2-1-Exercise-3-Solution\Exercise3\Exercise3\obj\Debug\net6.0\Exercise3.csproj.AssemblyReference.cache
+D:\C#\n0wG0b8hSBiLl0g5FTyz_Q_6002d73e0992449c80b65acc361fb1f1_2-1-Exercise-3-Solution\Exercise3\Exercise3\obj\Debug\net6.0\Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\n0wG0b8hSBiLl0g5FTyz_Q_6002d73e0992449c80b65acc361fb1f1_2-1-Exercise-3-Solution\Exercise3\Exercise3\obj\Debug\net6.0\Exercise3.AssemblyInfoInputs.cache
+D:\C#\n0wG0b8hSBiLl0g5FTyz_Q_6002d73e0992449c80b65acc361fb1f1_2-1-Exercise-3-Solution\Exercise3\Exercise3\obj\Debug\net6.0\Exercise3.AssemblyInfo.cs
+D:\C#\n0wG0b8hSBiLl0g5FTyz_Q_6002d73e0992449c80b65acc361fb1f1_2-1-Exercise-3-Solution\Exercise3\Exercise3\obj\Debug\net6.0\Exercise3.csproj.CoreCompileInputs.cache
+D:\C#\n0wG0b8hSBiLl0g5FTyz_Q_6002d73e0992449c80b65acc361fb1f1_2-1-Exercise-3-Solution\Exercise3\Exercise3\obj\Debug\net6.0\Exercise3.dll
+D:\C#\n0wG0b8hSBiLl0g5FTyz_Q_6002d73e0992449c80b65acc361fb1f1_2-1-Exercise-3-Solution\Exercise3\Exercise3\obj\Debug\net6.0\refint\Exercise3.dll
+D:\C#\n0wG0b8hSBiLl0g5FTyz_Q_6002d73e0992449c80b65acc361fb1f1_2-1-Exercise-3-Solution\Exercise3\Exercise3\obj\Debug\net6.0\Exercise3.pdb
+D:\C#\n0wG0b8hSBiLl0g5FTyz_Q_6002d73e0992449c80b65acc361fb1f1_2-1-Exercise-3-Solution\Exercise3\Exercise3\obj\Debug\net6.0\Exercise3.genruntimeconfig.cache
+D:\C#\n0wG0b8hSBiLl0g5FTyz_Q_6002d73e0992449c80b65acc361fb1f1_2-1-Exercise-3-Solution\Exercise3\Exercise3\obj\Debug\net6.0\ref\Exercise3.dll
