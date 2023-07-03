@@ -1,0 +1,15 @@
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_3\4-Windows-Programming-Assignment-4-Materials\ProgrammingAssignment4\ProgrammingAssignment4\bin\Debug\net6.0\ProgrammingAssignment4.exe
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_3\4-Windows-Programming-Assignment-4-Materials\ProgrammingAssignment4\ProgrammingAssignment4\bin\Debug\net6.0\ProgrammingAssignment4.deps.json
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_3\4-Windows-Programming-Assignment-4-Materials\ProgrammingAssignment4\ProgrammingAssignment4\bin\Debug\net6.0\ProgrammingAssignment4.runtimeconfig.json
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_3\4-Windows-Programming-Assignment-4-Materials\ProgrammingAssignment4\ProgrammingAssignment4\bin\Debug\net6.0\ProgrammingAssignment4.dll
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_3\4-Windows-Programming-Assignment-4-Materials\ProgrammingAssignment4\ProgrammingAssignment4\bin\Debug\net6.0\ProgrammingAssignment4.pdb
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_3\4-Windows-Programming-Assignment-4-Materials\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\net6.0\ProgrammingAssignment4.csproj.AssemblyReference.cache
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_3\4-Windows-Programming-Assignment-4-Materials\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\net6.0\ProgrammingAssignment4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_3\4-Windows-Programming-Assignment-4-Materials\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\net6.0\ProgrammingAssignment4.AssemblyInfoInputs.cache
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_3\4-Windows-Programming-Assignment-4-Materials\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\net6.0\ProgrammingAssignment4.AssemblyInfo.cs
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_3\4-Windows-Programming-Assignment-4-Materials\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\net6.0\ProgrammingAssignment4.csproj.CoreCompileInputs.cache
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_3\4-Windows-Programming-Assignment-4-Materials\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\net6.0\ProgrammingAssignment4.dll
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_3\4-Windows-Programming-Assignment-4-Materials\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\net6.0\refint\ProgrammingAssignment4.dll
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_3\4-Windows-Programming-Assignment-4-Materials\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\net6.0\ProgrammingAssignment4.pdb
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_3\4-Windows-Programming-Assignment-4-Materials\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\net6.0\ProgrammingAssignment4.genruntimeconfig.cache
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_3\4-Windows-Programming-Assignment-4-Materials\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\net6.0\ref\ProgrammingAssignment4.dll
