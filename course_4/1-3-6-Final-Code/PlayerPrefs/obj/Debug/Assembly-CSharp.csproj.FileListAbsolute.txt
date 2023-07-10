@@ -1,0 +1,78 @@
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code 5 4 0\TextInput\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code 5 4 0\TextInput\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code 5 4 0\TextInput\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code 5 4 0\TextInput\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code 5 4 0\TextInput\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code 5 4 0\TextInput\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code 5 4 0\TextInput\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code 5 4 0\TextInput\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code 5 4 0\TextInput\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code 5 4 0\TextInput\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code 5 4 0\TextInput\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code 5 4 0\TextInput\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code 5 4 0\TextInput\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code 5 4 0\TextInput\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code 5 4 0\TextInput\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code 5 4 0\TextInput\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code 5 4 0\TextInput\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code 5 4 0\TextInput\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code 5 4 0\TextInput\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code 5 4 0\TextInput\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code 5 4 0\TextInput\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code 5 4 0\TextInput\obj\Debug\Assembly-CSharp.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code 5 4 0\TextInput\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code\TextInput\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code\TextInput\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code\TextInput\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code\TextInput\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code\TextInput\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code\TextInput\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code\TextInput\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code\TextInput\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code\TextInput\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code\TextInput\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code\TextInput\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code\TextInput\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code\TextInput\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code\TextInput\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code\TextInput\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code\TextInput\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code\TextInput\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code\TextInput\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code\TextInput\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code\TextInput\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code\TextInput\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code\TextInput\obj\Debug\Assembly-CSharp.dll
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Chapter 14 Unity Text IO\Chapter14Code\TextInput\obj\Debug\Assembly-CSharp.pdb
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\nunit.framework.dll
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\UnityEditor.dll
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\UnityEngine.dll
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\Mono.Cecil.dll
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\Unity.DataContract.dll
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\UnityEngine.xml
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\UnityEditor.xml
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\nunit.framework.xml
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\obj\Debug\Assembly-CSharp.dll
+D:\Dropbox\Coursera\Int C# Prog\Module 1 Exceptions and File IO\Lesson 3 File IO\Lecture 6 PlayerPrefs\Lecture Code\PlayerPrefs\obj\Debug\Assembly-CSharp.pdb

@@ -1,0 +1,15 @@
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_4\1-3-Exercise-2-Solution\Exercise2\Exercise2\bin\Debug\net6.0\Exercise2.exe
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_4\1-3-Exercise-2-Solution\Exercise2\Exercise2\bin\Debug\net6.0\Exercise2.deps.json
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_4\1-3-Exercise-2-Solution\Exercise2\Exercise2\bin\Debug\net6.0\Exercise2.runtimeconfig.json
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_4\1-3-Exercise-2-Solution\Exercise2\Exercise2\bin\Debug\net6.0\Exercise2.dll
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_4\1-3-Exercise-2-Solution\Exercise2\Exercise2\bin\Debug\net6.0\Exercise2.pdb
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_4\1-3-Exercise-2-Solution\Exercise2\Exercise2\obj\Debug\net6.0\Exercise2.csproj.AssemblyReference.cache
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_4\1-3-Exercise-2-Solution\Exercise2\Exercise2\obj\Debug\net6.0\Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_4\1-3-Exercise-2-Solution\Exercise2\Exercise2\obj\Debug\net6.0\Exercise2.AssemblyInfoInputs.cache
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_4\1-3-Exercise-2-Solution\Exercise2\Exercise2\obj\Debug\net6.0\Exercise2.AssemblyInfo.cs
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_4\1-3-Exercise-2-Solution\Exercise2\Exercise2\obj\Debug\net6.0\Exercise2.csproj.CoreCompileInputs.cache
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_4\1-3-Exercise-2-Solution\Exercise2\Exercise2\obj\Debug\net6.0\Exercise2.dll
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_4\1-3-Exercise-2-Solution\Exercise2\Exercise2\obj\Debug\net6.0\refint\Exercise2.dll
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_4\1-3-Exercise-2-Solution\Exercise2\Exercise2\obj\Debug\net6.0\Exercise2.pdb
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_4\1-3-Exercise-2-Solution\Exercise2\Exercise2\obj\Debug\net6.0\Exercise2.genruntimeconfig.cache
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_4\1-3-Exercise-2-Solution\Exercise2\Exercise2\obj\Debug\net6.0\ref\Exercise2.dll
