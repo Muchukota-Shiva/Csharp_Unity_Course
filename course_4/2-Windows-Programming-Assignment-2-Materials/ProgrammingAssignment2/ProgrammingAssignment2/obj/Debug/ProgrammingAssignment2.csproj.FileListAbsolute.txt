@@ -1,0 +1,8 @@
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_4\2-Windows-Programming-Assignment-2-Materials\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.exe.config
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_4\2-Windows-Programming-Assignment-2-Materials\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.exe
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_4\2-Windows-Programming-Assignment-2-Materials\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.pdb
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_4\2-Windows-Programming-Assignment-2-Materials\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csproj.AssemblyReference.cache
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_4\2-Windows-Programming-Assignment-2-Materials\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csproj.SuggestedBindingRedirects.cache
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_4\2-Windows-Programming-Assignment-2-Materials\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csproj.CoreCompileInputs.cache
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_4\2-Windows-Programming-Assignment-2-Materials\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.exe
+D:\C#\coloradoc#course\Csharp_Unity_Course\course_4\2-Windows-Programming-Assignment-2-Materials\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.pdb
